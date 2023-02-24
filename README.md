@@ -2,10 +2,7 @@
 ## Sorting algorithms & Big O
 Foundations - Low-level programming & Algorithm ― Data structures and Algorithms
 
-**_by Alexandre Gautier, Software Engineer at Holberton, Inc._**
-##
-![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png)
-## More Info
+
 
 ### Data Structure and Functions
 
@@ -400,8 +397,8 @@ alex@/tmp/sort$
 
 ##
 **Proudly written by:**
-- **[Yosri Ghorbel](https://github.com/YosriGFX)**
-- **[Adib Gruise](https://github.com/s0m35h1t)**
+- **[HENRY JOSEPH PHILLIP LOKUKU](https://github.com/Hnryjsph)**
+
 ##
 
-> Copyright © 2021 [Holberton School](https://www.holbertonschool.com). All rights reserved.
+
